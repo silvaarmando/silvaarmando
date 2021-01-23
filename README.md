@@ -14,7 +14,7 @@
   </table>
 </center> 
 
-<img src="images/foot_github.png" alt="footer github" usemap="#footermap">
+<img src="images/foot_github.png" alt="footer github" usemap="footermap">
 
 <map name="footermap">
    <!-- <area shape="rect" coords="34,44,270,350" alt="Gmail" href="#">-->
