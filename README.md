@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I am a student of Systems Analysis and Development at Anhanguera University - Uniderp
+- 🔭 I'm a student of Systems Analysis and Development at Anhanguera University - Uniderp
 - 🌱 I'm studying web development and backend development
 
 <center>
