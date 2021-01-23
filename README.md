@@ -1,3 +1,5 @@
+![](images/capa_github.png)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I am a student of Systems Analysis and Development at Anhanguera University - Uniderp
+- 🌱 I'm studying web development and backend development
