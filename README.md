@@ -2,20 +2,6 @@
 
 ### Hi there 👋
 
-<!--
-**franciscoarmando63/franciscoarmando63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 🔭 I am a student of Systems Analysis and Development at Anhanguera University - Uniderp
 - 🌱 I'm studying web development and backend development
 
@@ -27,3 +13,11 @@ Here are some ideas to get you started:
     <tr>
   </table>
 </center> 
+
+<img src="images/foot_github.png" alt="footer github" usemap="#footermap">
+
+<map name="footermap">
+    <area shape="rect" coords="34,44,270,350" alt="Gmail" href="#">
+    <area shape="circle" coords="365,93,27" alt="Github" href="#">
+    <area shape="rect" coords="290,172,333,250" alt="LinkedIn" href="#">
+</map>
