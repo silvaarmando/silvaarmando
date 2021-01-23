@@ -14,10 +14,12 @@
   </table>
 </center> 
 
+<!--
 <img src="images/foot_github.png" alt="footer github" usemap="#footermap">
-
+-->
+<!--
 <map name="footermap">
-   <!-- <area shape="rect" coords="34,44,270,350" alt="Gmail" href="#">-->
+    <area shape="rect" coords="34,44,270,350" alt="Gmail" href="#">
     <area shape="circle" coords="817,213,58" alt="Github" src="https://github.com/franciscoarmando63">
-    <!--<area shape="rect" coords="290,172,333,250" alt="LinkedIn" href="#">-->
-</map>
+    <area shape="rect" coords="290,172,333,250" alt="LinkedIn" href="#">
+</map>-->
