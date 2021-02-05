@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-🔭 I'm a student of Systems Analysis and Development and studying web development and backend development
+🔭 I'm studying web development and backend development
 
 <center>
   <table>
