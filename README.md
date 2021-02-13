@@ -33,7 +33,7 @@
 <center>
   <code>
     <a
-      href="htttps://www.python.org"
+      href="https://www.python.org"
       target="_blank"
     >
       <img
