@@ -1,5 +1,11 @@
 
-![](images/capa_github_profile.png)<br/><br/>
+<h1>
+  <img
+    src="images/capa_github_profile.png"
+  >
+</h1>
+<br>
+<br>
 
 <center>
   <table>
@@ -120,7 +126,6 @@
 </center>
 <br/>
 <br/>
-
 <div>
   <img
     src="images/footer_github_profile.png"
@@ -130,12 +135,12 @@
   <map
     name="footermap"
   >
-    <a 
-      href="https://www.github.com/franciscoarmando63"
+    <a
+      href="https://github.com/franciscoarmando63"
     >
-      <area 
+      <area
         shape="rect"
-        coords="34,44,270,350"
+        coords="171, 131, 318, 278"
         alt="GitHub"
       >
     </a>
@@ -144,7 +149,7 @@
     >
       <area
         shape="rect"
-        coords="817,213,58, 350"
+        coords="745, 131, 893, 278"
         alt="Linkedin"
       >
     </a>
@@ -152,7 +157,7 @@
       href="mailto:franciscosouza9779@gmail.com">
       <area
         shape="rect"
-        coords="290,172,333,350"
+        coords="1299, 138, 1453, 263"
         alt="Gmail"
       >
   </map>
