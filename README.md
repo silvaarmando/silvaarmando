@@ -32,7 +32,7 @@
 <center>
   <code>
     <a
-      href="www.python.org"
+      href="htttps://www.python.org"
       target="_blank"
     >
       <img
@@ -153,6 +153,7 @@
   >
     <a 
       href="https://github.com/franciscoarmando63"
+      target="_blank"
     >
       <area
         shape="rect"
@@ -162,6 +163,7 @@
     </a>
     <a
       href="https://www.linkedin.com/in/francisco-s-4023a41a7"
+      target="_blank"
     >
       <area
         shape="rect"
@@ -170,7 +172,9 @@
       >
     </a>
     <a
-      href="mailto:franciscosouza9779@gmail.com">
+      href="mailto:franciscosouza9779@gmail.com"
+      target="_blank"
+    >
       <area
         shape="rect"
         coords="1299, 138, 1453, 263"
