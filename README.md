@@ -126,17 +126,6 @@
       >
     </a>
   </code>&nbsp; &nbsp; &nbsp;
-  <code>
-    <a
-      href="https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.1"
-      target="_blank"
-    >
-      <img
-        width="50"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-      >
-    </a>
-  </code>&nbsp; &nbsp; &nbsp;
 </center>
 <br/>
 <br/>
