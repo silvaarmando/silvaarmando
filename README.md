@@ -1,7 +1,7 @@
-
-<img
-  src="images/capa_github_profile.png"
->
+<h1>
+  <img
+    src="images/capa_github_profile.png"
+</h1>
 
 <center>
   <table>
