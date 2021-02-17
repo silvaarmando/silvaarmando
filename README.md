@@ -1,8 +1,8 @@
 <h1>
   <img
     src="images/capa_github_profile.png"
-</h1><br>
-<br>
+</h1><br/>
+
 <center>
   <table>
     <tr>
@@ -23,7 +23,7 @@
     <tr>
   </table>
 </center>
-<br/><br/>
+<br/>
 
 <center>
   <code>
@@ -36,7 +36,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
       >
     </a>
-  </code>&nbsp;
+  </code>
   <code>
     <a
       href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
@@ -47,7 +47,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
       >
     </a>
-  </code>&nbsp;
+  </code>
   <code>
     <a
       href="https://www.w3schools.com/css/"
@@ -58,7 +58,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
       >
     </a>
-  </code>&nbsp;
+  </code>
   <code>
     <a 
       href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
@@ -69,7 +69,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
       >
     </a>
-  </code>&nbsp;
+  </code>
   <code>
     <a
       href="https://www.typescriptlang.org/"
@@ -80,7 +80,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
       >
     </a>
-  </code>&nbsp;
+  </code>
   <code>
     <a
       href="https://pt-br.reactjs.org/"
@@ -91,7 +91,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
       >
     </a>
-  </code>&nbsp;
+  </code>
   <code>
     <a
       href="https://nodejs.org/en/"
@@ -102,7 +102,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
       >
     </a>
-  </code>&nbsp;
+  </code>
   <code>
     <a
       href="https://www.postgresql.org"
@@ -113,7 +113,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
       >
     </a>
-  </code>&nbsp;
+  </code>
   <code>
     <a
       href="https://git-scm.com/"
@@ -124,7 +124,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
       >
     </a>
-  </code>&nbsp;
+  </code>
 </center>
 <br/>
 <br/>
