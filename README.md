@@ -1,8 +1,8 @@
 <h1>
   <img
     src="images/capa_github_profile.png"
-</h1>
-
+</h1><br>
+<br>
 <center>
   <table>
     <tr>
