@@ -37,6 +37,7 @@
       >
     </a>
   </code>&nbsp; &nbsp; &nbsp;
+  <code>
     <a
       href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
       target="_blank"
