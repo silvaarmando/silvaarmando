@@ -25,7 +25,7 @@
 </center>
 <br/>
 
-<center>
+<div align="center">
   <code>
     <a
       href="https://www.python.org"
@@ -124,8 +124,8 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
       >
     </a>
-  </code>&nbsp;
-</center>
+  </code>
+</div>
 <br/>
 <br/>
 <div>
