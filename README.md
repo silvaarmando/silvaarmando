@@ -1,7 +1,7 @@
 <h1>
   <img
     src="images/capa_github_profile.png"
-</h1><br/>
+</h1><br />
 <br />
 <center>
   <table>
