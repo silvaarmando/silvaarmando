@@ -127,7 +127,6 @@
   </code>
 </div>
 <br/>
-<br/>
 <div>
   <img
     src="images/footer_github_profile.png"
