@@ -115,7 +115,7 @@
     </a>
   </code>&nbsp;
 </div>
-<br/>
+<br/><br/>
 <div>
   <img
     src="images/footer_github_profile.png"
