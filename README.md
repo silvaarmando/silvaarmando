@@ -4,8 +4,6 @@
     src="images/capa_github_profile.png"
   >
 </h1>
-
-<br>
 <br>
 
 <center>
