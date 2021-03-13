@@ -3,7 +3,9 @@
     src="images/capa_github_profile.png"
 </h1><br />
 <br />
-<center>
+<div
+     align="center"
+>
   <table>
     <tr>
       <td>
@@ -12,13 +14,14 @@
           align="left"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoarmando63&hide=html&layout=compact&theme=onedark" 
         />
-      </td>
-     
+      </td> 
   </table>
-</center>
+</div>
 <br/>
 
 <div align="center">
+  <h4>Linguagens e Ferramentas que utilizo</h4>
+  
   <code>
     <a
       href="https://www.python.org"
