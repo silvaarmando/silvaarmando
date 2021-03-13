@@ -32,7 +32,11 @@
 
 <center>
 
-  <h3>Languages ​​and Tools that I have mastered</h3>
+  <h3
+    align="center"
+  >
+    Languages ​​and Tools that I have mastered
+  </h3>
   <br />
   <code>
     <a
