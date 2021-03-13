@@ -1,11 +1,14 @@
+
 <h1>
   <img
     src="images/capa_github_profile.png"
-</h1><br />
-<br />
-<div
-     align="center"
->
+  >
+</h1>
+
+<br>
+<br>
+
+<center>
   <table>
     <tr>
       <td>
@@ -14,14 +17,23 @@
           align="left"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoarmando63&hide=html&layout=compact&theme=onedark" 
         />
-      </td> 
+      </td>
+      <td>
+        <img
+          width="495px"
+          align="left"
+          src="https://github-readme-stats.vercel.app/api?username=franciscoarmando63&theme=onedark"
+        />
+      </td>
+    <tr>
   </table>
-</div>
-<br/>
+</center>
+<br/><br/>
 
-<div align="center">
-  <h4>Linguagens e Ferramentas que utilizo</h4>
-  
+<center>
+
+  <h3>Languages ​​and Tools that I have mastered</h3>
+  <br />
   <code>
     <a
       href="https://www.python.org"
@@ -32,8 +44,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
       >
     </a>
-  </code>&nbsp;
-  <code>
+  </code>&nbsp; &nbsp; &nbsp;
     <a
       href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
       target="_blank"
@@ -43,7 +54,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
       >
     </a>
-  </code>&nbsp;
+  </code>&nbsp; &nbsp; &nbsp;
   <code>
     <a
       href="https://www.w3schools.com/css/"
@@ -54,7 +65,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
       >
     </a>
-  </code>&nbsp;
+  </code>&nbsp; &nbsp; &nbsp;
   <code>
     <a 
       href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
@@ -65,7 +76,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
       >
     </a>
-  </code>&nbsp;
+  </code>&nbsp; &nbsp; &nbsp;
   <code>
     <a
       href="https://www.typescriptlang.org/"
@@ -76,7 +87,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
       >
     </a>
-  </code>&nbsp;
+  </code>&nbsp; &nbsp; &nbsp;
   <code>
     <a
       href="https://pt-br.reactjs.org/"
@@ -87,7 +98,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
       >
     </a>
-  </code>&nbsp;
+  </code>&nbsp; &nbsp; &nbsp;
   <code>
     <a
       href="https://nodejs.org/en/"
@@ -98,7 +109,7 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
       >
     </a>
-  </code>&nbsp;
+  </code>&nbsp; &nbsp; &nbsp;
   <code>
     <a
       href="https://www.postgresql.org"
@@ -109,7 +120,62 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
       >
     </a>
-  </code>&nbsp;
+  </code>&nbsp; &nbsp; &nbsp;
+  <code>
+    <a
+      href="https://git-scm.com/"
+      target="_blank"
+    >
+      <img
+        width="50"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+      >
+    </a>
+  </code>&nbsp; &nbsp; &nbsp;
+  <code>
+    <a
+      href="https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.1"
+      target="_blank"
+    >
+      <img
+        width="50"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+      >
+    </a>
+  </code>&nbsp; &nbsp; &nbsp;
+</center>
+<br/>
+<br/>
+<div>
+  <img
+    src="images/footer_github_profile.png"
+    alt="footer github"
+    usemap="#footermap"
+  >
+  <map
+    name="footermap"
+  >
+    <area
+      shape="rect"
+      coords="171, 131, 318, 278"
+      alt="GitHub"
+      href="https://github.com/franciscoarmando63"
+      target="_blank"
+    >
+    <area
+      shape="rect"
+      coords="745, 131, 893, 278"
+      alt="Linkedin"
+      href="https://www.linkedin.com/in/francisco-s-4023a41a7"
+      target="_blank"
+    >
+    <area
+      shape="rect"
+      coords="1299, 138, 1453, 263"
+      alt="Gmail"
+      href="mailto:franciscosouza9779@gmail.com"
+      target="_blank"
+    >
+  </map>
 </div>
 
-</div>
