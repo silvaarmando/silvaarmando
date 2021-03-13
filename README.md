@@ -115,36 +115,5 @@
     </a>
   </code>&nbsp;
 </div>
-<br/><br/>
-<div>
-  <img
-    src="images/footer_github_profile.png"
-    alt="footer github"
-    usemap="#footermap"
-  >
-  <map
-    name="footermap"
-  >
-    <area
-      shape="rect"
-      coords="171, 131, 318, 278"
-      alt="GitHub"
-      href="https://github.com/franciscoarmando63"
-      target="_blank"
-    >
-    <area
-      shape="rect"
-      coords="745, 131, 893, 278"
-      alt="Linkedin"
-      href="https://www.linkedin.com/in/francisco-s-4023a41a7"
-      target="_blank"
-    >
-    <area
-      shape="rect"
-      coords="1299, 138, 1453, 263"
-      alt="Gmail"
-      href="mailto:franciscosouza9779@gmail.com"
-      target="_blank"
-    >
-  </map>
+
 </div>
