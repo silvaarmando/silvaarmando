@@ -27,13 +27,13 @@
   </table>
 </center>
 
+<h3
+  align="center"
+>
+  Languages and Tools that I have mastered
+</h3>
+<br />
 <center>
-  <h3
-    align="center"
-  >
-    Languages and Tools that I have mastered
-  </h3>
-  <br />
   <code>
     <a
       href="https://www.python.org"
