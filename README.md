@@ -16,13 +16,13 @@
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoarmando63&hide=html&layout=compact&theme=onedark" 
         />
       </td>
-      <td>
+<!--       <td>
         <img
           width="495px"
           align="left"
           src="https://github-readme-stats.vercel.app/api?username=franciscoarmando63&theme=onedark"
         />
-      </td>
+      </td> -->
     <tr>
   </table>
 </center>
