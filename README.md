@@ -1,9 +1,9 @@
 
-<h1>
+<h2>
   <img
     src="images/capa_github_profile.png"
   >
-</h1>
+</h2>
 
 <center>
   <table>
