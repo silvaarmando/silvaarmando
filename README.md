@@ -5,27 +5,26 @@
   >
 </h2>
 
-<center>
-  <table>
-    <tr>
-      <td>
-        <img
-          width="400px"
-          align="left"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoarmando63&hide=html&layout=compact&theme=onedark" 
-        />
-      </td>
-      <td>
-        <img
-          width="495px"
-          align="left"
-          src="https://github-readme-stats.vercel.app/api?username=franciscoarmando63&theme=onedark"
-        />
-      </td>
-    <tr>
-  </table>
-</center>
+<div>
+  <a href="https://github.com/franciscoarmando63"
+  <div>
+    <img
+      width="400px"
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoarmando63&hide=html&layout=compact&theme=onedark" 
+    />
+  </div>
+  <div>
+    <img
+      width="495px"
+      align="left"
+      src="https://github-readme-stats.vercel.app/api?username=franciscoarmando63&theme=onedark"
+    />
+  </div>
+</div>
 
+<br>
+<div>
 <h3
   align="center"
 >
@@ -145,3 +144,4 @@
     </a>
   </code>&nbsp;&nbsp;
 </center>
+</div>
