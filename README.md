@@ -5,21 +5,17 @@
   >
 </h2>
 
-<div>
-  <a href="https://github.com/franciscoarmando63"
-  <div>
+<div
+  align="center"
+>
+  <a href="https://github.com/franciscoarmando63" />
     <img
-      width="400px"
-      align="left"
+      height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoarmando63&hide=html&layout=compact&theme=onedark" 
     />
-  </div>
-  <div>
     <img
-      width="495px"
-      align="left"
+      height="180em"
       src="https://github-readme-stats.vercel.app/api?username=franciscoarmando63&theme=onedark"
     />
-  </div>
 </div>
 
