@@ -37,7 +37,7 @@
   <h3
     align="center"
   >
-    Languages ​​and Tools that I have mastered
+    Tools and Languages that I master
   </h3>
 
 <br
