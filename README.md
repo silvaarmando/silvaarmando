@@ -3,7 +3,7 @@
   align="center"
 >
   <img
-    width="280em"
+    width="380em"
     src="images/profile_icon.png"
   >
 </h3>
