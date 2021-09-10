@@ -1,12 +1,12 @@
 
-<h3
+<h2
   align="center"
 >
   <img
     width="380em"
     src="images/profile_icon.png"
   >
-</h3>
+</h2>
 
 <br
 />
