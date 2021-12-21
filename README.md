@@ -3,7 +3,7 @@
   align="center"
 >
   <img
-    width="440em"
+    width="580em"
     height="150em"
     src="images/armando-silva.svg"
   >
