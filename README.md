@@ -3,8 +3,9 @@
   align="center"
 >
   <img
-    width="380em"
-    src="images/profile_icon.png"
+    width="440em"
+    height="150em"
+    src="images/armando-silva.svg"
   >
 </h3>
 
