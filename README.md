@@ -30,7 +30,7 @@
     <img
       height="180em"
       alt="GitHub Streak"
-      src="https://github-readme-streak-stats.herokuapp.com?user=franciscoarmando63&theme=kacho_ga&hide_border=true"
+      src="https://github-readme-streak-stats.herokuapp.com?user=franciscoarmando63&theme=kacho_ga"
     >
 </div>
 
