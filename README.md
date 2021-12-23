@@ -16,19 +16,19 @@
     href="https://github.com/franciscoarmando63"
   >
     <img
-      height="180em"
+      height="250em"
       src="https://github-readme-stats.vercel.app/api?username=franciscoarmando63&show_icons=true&theme=kacho_ga"
     />
     <br/>
     <br/>
     <img
-      height="180em"
+      height="250em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoarmando63&hide=html&layout=compact&theme=kacho_ga"
     />
     <br/>
     <br/>
     <img
-      height="180em"
+      height="250em"
       alt="GitHub Streak"
       src="https://github-readme-streak-stats.herokuapp.com?user=franciscoarmando63&theme=kacho_ga"
     >
