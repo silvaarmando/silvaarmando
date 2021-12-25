@@ -15,10 +15,38 @@
 <div
   align="center"
 >
+  <a
+    href="https://github.com/franciscoarmando63"
+  >
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=franciscoarmando63&show_icons=true&theme=kacho_ga"
+    />
+    <br/>
+    <br/>
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoarmando63&hide=html&layout=compact&theme=kacho_ga"
+    />
+    <br/>
+    <br/>
+    <img
+      height="180em"
+      alt="GitHub Streak"
+      src="https://github-readme-streak-stats.herokuapp.com?user=franciscoarmando63&theme=kacho_ga"
+    >
+</div>
+
+<br
+/>
+
+<div
+  align="center"
+>
   <h3
     align="center"
   >
-    Tools and Languages that I master
+    <strong>TOOLS AND LANGUAGES THAT I MASTER.</str>
   </h3>
 
 <br
@@ -27,7 +55,7 @@
 <div
   align="center"
 >
-  <a
+  <am
     href="https://www.python.org"
     target="_blank"
   >
@@ -117,32 +145,4 @@
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
     >
   </a>
-</div>
-
-<br
-/>
-
-<div
-  align="center"
->
-  <a
-    href="https://github.com/franciscoarmando63"
-  >
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=franciscoarmando63&show_icons=true&theme=kacho_ga"
-    />
-    <br/>
-    <br/>
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoarmando63&hide=html&layout=compact&theme=kacho_ga"
-    />
-    <br/>
-    <br/>
-    <img
-      height="180em"
-      alt="GitHub Streak"
-      src="https://github-readme-streak-stats.herokuapp.com?user=franciscoarmando63&theme=kacho_ga"
-    >
 </div>
