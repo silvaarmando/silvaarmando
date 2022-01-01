@@ -1,4 +1,3 @@
-
 <h3
   align="center"
 >
@@ -8,9 +7,6 @@
     src="images/armando-silva.svg"
   >
 </h3>
-
-<br
-/>
 
 <div
   align="center"
