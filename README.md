@@ -14,7 +14,7 @@
   <h3
     align="center"
   >
-    <strong>TOOLS AND LANGUAGES THAT I MASTER.</str>
+    <strong>Tools and Languages I Use</str>
   </h3>
 
 <br
