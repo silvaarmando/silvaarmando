@@ -27,6 +27,14 @@
       target="_blank"
     />
   </a>
+  <a
+     href="https://app.rocketseat.com.br/me/francisco-armando-souza-da-silva-1581351344"
+  >
+    <img
+      src="https://img.shields.io/badge/Perfil-Rocketseat-%237159c1?style=for-the-badge&logo=circle"
+      target="_blank"
+    >
+  </a>
 </div>
 
 <div
